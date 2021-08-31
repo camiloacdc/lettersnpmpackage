@@ -1,0 +1,20 @@
+{
+  "name": "letters123456",
+  "version": "1.0.1",
+  "description": "show random quotes and letters.. Could you get some love letters examples, and some american native phrases... this is it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "npm",
+    "node"
+  ],
+  "author": "camiloacdc",
+  "license": "MIT",
+  "bin": {
+    "letters": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
